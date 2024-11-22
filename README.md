@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Murali Krishna</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🌱 I’m currently learning **React js,Node js**
+- 🌱 I’m a FullStack Developer
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Backend**
 
 - 📫 How to reach me **muralikrishna8309@gmail.com**
 
